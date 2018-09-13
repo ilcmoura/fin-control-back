@@ -1,0 +1,21 @@
+{
+  "name": "fin-control-back",
+  "version": "1.0.0",
+  "description": "API de controle financeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igor Louback",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "@types/restify": "7.2.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "node-restful": "^0.2.6",
+    "restify": "^7.2.1"
+  }
+}
