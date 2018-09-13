@@ -24,7 +24,7 @@ export class Server {
                     
                     resp.status(200)
                     resp.json({
-                        message:'hello'
+                        message:'hello alterado'
                     })
                 
                     return next()

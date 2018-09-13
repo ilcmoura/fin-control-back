@@ -15,7 +15,7 @@ class Server {
                     console.log('ok');
                     resp.status(200);
                     resp.json({
-                        message: 'hello'
+                        message: 'hello alterado'
                     });
                     return next();
                 });
